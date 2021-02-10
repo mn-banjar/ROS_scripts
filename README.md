@@ -1,6 +1,6 @@
 # ROS_scripts
 
-small ROS scripts for a single function 
+Small ROS scripts to perform a single function
 
 See the wiki page 
 
