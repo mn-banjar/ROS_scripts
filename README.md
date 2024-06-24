@@ -11,6 +11,6 @@ Small ROS scripts to perform a single function
 * [publishing to /joint_states topic in C++](https://github.com/mn-banjar/ROS_scripts/wiki/publish-to--joint_states-topic-in-cpp)
 
 
-See the wiki page 
+See the wiki page .
 
 https://github.com/mn-banjar/ROS_scripts/wiki
